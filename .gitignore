@@ -9,5 +9,5 @@ Sample/*.xcodeproj/project.xcworkspace
 Sample/*.xcodeproj/xcuserdata
 
 # osx noise
-.DS_Store
+*.DS_Store
 profile
